@@ -1,0 +1,15 @@
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.exe
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.deps.json
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.runtimeconfig.json
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.dll
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\bin\Debug\net8.0\Sandbox.pdb
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.AssemblyInfoInputs.cache
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.AssemblyInfo.cs
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.csproj.CoreCompileInputs.cache
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.sourcelink.json
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.dll
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\obj\Debug\net8.0\refint\Sandbox.dll
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.pdb
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\obj\Debug\net8.0\Sandbox.genruntimeconfig.cache
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\sandbox\Sandbox\obj\Debug\net8.0\ref\Sandbox.dll

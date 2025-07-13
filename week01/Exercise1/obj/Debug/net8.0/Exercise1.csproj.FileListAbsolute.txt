@@ -1,0 +1,15 @@
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\bin\Debug\net8.0\Exercise1.exe
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\bin\Debug\net8.0\Exercise1.deps.json
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\bin\Debug\net8.0\Exercise1.runtimeconfig.json
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\bin\Debug\net8.0\Exercise1.dll
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\bin\Debug\net8.0\Exercise1.pdb
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.AssemblyInfo.cs
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.csproj.CoreCompileInputs.cache
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.sourcelink.json
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.dll
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\obj\Debug\net8.0\refint\Exercise1.dll
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.pdb
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\obj\Debug\net8.0\Exercise1.genruntimeconfig.cache
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week01\Exercise1\obj\Debug\net8.0\ref\Exercise1.dll
