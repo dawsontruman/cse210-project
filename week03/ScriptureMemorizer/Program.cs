@@ -24,7 +24,7 @@ class Program
                 if (cont == "")
                 {
                     Console.Clear();
-                    scripture.HideRandomWords(4);
+                    scripture.HideRandomWords(4); // is getting stuck because it runs out of words to hide
                 }
                 else if (cont == "quit")
                 {

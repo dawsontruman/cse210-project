@@ -32,13 +32,13 @@ public class Word
     {
         if (_isHidden)
         {
-            string _hiddenText = "";
-            string[] splitText = _text.Split();
+            string hiddenText = "";
+            string[] splitText = _text.Split("");
             for (int i = 0; i < splitText.Length; i++)
             {
-                _hiddenText += "_";
+                hiddenText = hiddenText + "_";
             }
-            return _hiddenText;
+            return hiddenText;
         }
         else
         {
