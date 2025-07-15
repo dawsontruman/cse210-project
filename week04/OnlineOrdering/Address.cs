@@ -24,8 +24,8 @@ public class Address
             return false;
         }
     }
-    public void DisplayAddress()
+    public string ReturnAddressString()
     {
-        Console.WriteLine($"{_streetAddress}\n{_city}, {_state}, {_country}");
+        return $"{_streetAddress}\n{_city}, {_state}, {_country}";
     }
 }
