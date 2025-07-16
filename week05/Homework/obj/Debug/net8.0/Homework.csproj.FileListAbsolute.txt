@@ -1,0 +1,15 @@
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\bin\Debug\net8.0\Homework.exe
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\bin\Debug\net8.0\Homework.deps.json
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\bin\Debug\net8.0\Homework.runtimeconfig.json
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\bin\Debug\net8.0\Homework.dll
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\bin\Debug\net8.0\Homework.pdb
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\obj\Debug\net8.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\obj\Debug\net8.0\Homework.AssemblyInfoInputs.cache
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\obj\Debug\net8.0\Homework.AssemblyInfo.cs
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\obj\Debug\net8.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\obj\Debug\net8.0\Homework.sourcelink.json
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\obj\Debug\net8.0\Homework.dll
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\obj\Debug\net8.0\refint\Homework.dll
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\obj\Debug\net8.0\Homework.pdb
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\obj\Debug\net8.0\Homework.genruntimeconfig.cache
+C:\Users\dawso\OneDrive\Documents\CSE 210\cse210-project\week05\Homework\obj\Debug\net8.0\ref\Homework.dll
