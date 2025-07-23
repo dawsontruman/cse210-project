@@ -36,7 +36,6 @@ public class ListingActivity : Activity
         Console.WriteLine($"You entered {userList.Count()} items.");
         Thread.Sleep(2000);
         DisplayEndingMessage();
-        Thread.Sleep(2000);
     }
     public void GetRandomPrompt()
     {

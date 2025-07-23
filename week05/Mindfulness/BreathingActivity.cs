@@ -23,6 +23,5 @@ public class BreathingActivity : Activity
             ShowCountDown(7);
         }
         DisplayEndingMessage();
-        Thread.Sleep(2000);
     }
 }

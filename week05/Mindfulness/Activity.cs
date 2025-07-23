@@ -45,6 +45,7 @@ public class Activity
     public void DisplayEndingMessage()
     {
         Console.Write($"This concludes the {_name}.");
+        Thread.Sleep(3000);
     }
     public void ShowSpinner(int seconds)
     {
