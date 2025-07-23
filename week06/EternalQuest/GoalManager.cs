@@ -37,27 +37,27 @@ public class GoalManager
             // 1. Create New Goal
             if (selection == 1)
             {
-
+                CreateGoal();
             }
             // 2. List Goals
             else if (selection == 2)
             {
-
+                ListGoalDetails();
             }
             // 3. Save Goals
             else if (selection == 3)
             {
-
+                SaveGoals();
             }
             // 4. Load Goals
             else if (selection == 4)
             {
-
+                LoadGoals();
             }
             // 5. Record Event
             else if (selection == 5)
             {
-
+                // the user is given a list of current goals and selects a goal to modify
             }
             // 6. Quit
             else if (selection == 6)
@@ -73,15 +73,21 @@ public class GoalManager
     }
     public void ListGoalNames()
     {
-
+        foreach (Goal goal in _goals)
+        {
+            Console.WriteLine(""); // this may go unused
+        }
     }
     public void ListGoalDetails()
     {
+        foreach (Goal goal in _goals)
+        {
 
+        }
     }
     public void CreateGoal()
     {
-
+        
     }
     public void RecordEvent()
     {
@@ -94,6 +100,20 @@ public class GoalManager
     }
     public void LoadGoals()
     {
-        
+
     }
+    // public bool ContinueMessage()
+    // {
+    //     Console.Write("\nPress Enter to continue: ");
+    //     string cont = Console.ReadLine();
+    //     while (true)
+    //         if (cont == "")
+    //         {
+    //             return true;
+    //         }
+    //         else
+    //         {
+    //             continue;
+    //         }
+    // }
 }
