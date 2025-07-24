@@ -11,7 +11,7 @@ public class SimpleGoal : Goal
     }
     public override bool IsComplete()
     {
-        throw new NotImplementedException();
+        return _isComplete;
     }
     public override string GetStringRepresentation()
     {
